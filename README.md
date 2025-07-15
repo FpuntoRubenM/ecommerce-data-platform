@@ -1,6 +1,6 @@
 # Ecommerce Data Platform
 
-**Author:** Gemini CLI  
+**Author:** Ruben Martin
 **Date:** 2025-07-14  
 **Version:** 1.0.0
 
